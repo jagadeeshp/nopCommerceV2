@@ -1,0 +1,270 @@
+2020-05-20 23:55:52,956 [main] INFO nopEcommerece - URL is opened...
+2020-05-20 23:57:10,069 [main] INFO nopEcommerece - URL is opened...
+2020-05-20 23:58:13,941 [main] INFO nopEcommerece - URL is opened...
+2020-05-20 23:58:40,560 [main] INFO nopEcommerece - URL is opened...
+2020-05-20 23:59:07,995 [main] INFO nopEcommerece - URL is opened...
+2020-05-21 00:00:48,239 [main] INFO nopEcommerece - URL is opened...
+2020-05-21 00:00:48,792 [main] INFO nopEcommerece - User provided
+2020-05-21 00:00:49,040 [main] INFO nopEcommerece - Password provided
+2020-05-21 00:00:55,426 [main] INFO nopEcommerece - Login is clicked
+2020-05-21 00:01:02,443 [main] INFO nopEcommerece - Login passed
+2020-05-23 11:52:19,114 [main] INFO eCommerce - URL is opened...
+2020-05-23 11:52:19,418 [main] INFO eCommerce - User provided
+2020-05-23 11:52:19,577 [main] INFO eCommerce - Password provided
+2020-05-23 11:52:23,370 [main] INFO eCommerce - Login is clicked
+2020-05-23 11:52:30,118 [main] INFO eCommerce - Login passed
+2020-05-23 12:04:32,138 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:04:32,423 [main] INFO eCommerce - User provided
+2020-05-23 12:04:32,572 [main] INFO eCommerce - Password provided
+2020-05-23 12:04:37,243 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:04:46,144 [main] INFO eCommerce - Login passed
+2020-05-23 12:04:56,400 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:04:56,510 [main] INFO eCommerce - User provided
+2020-05-23 12:04:56,620 [main] INFO eCommerce - Password provided
+2020-05-23 12:05:02,456 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:05:10,101 [main] INFO eCommerce - Login passed
+2020-05-23 12:29:41,915 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:29:42,229 [main] INFO eCommerce - User provided
+2020-05-23 12:29:42,394 [main] INFO eCommerce - Password provided
+2020-05-23 12:29:46,264 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:29:52,842 [main] INFO eCommerce - Login passed
+2020-05-23 12:30:03,415 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:30:03,539 [main] INFO eCommerce - User provided
+2020-05-23 12:30:03,616 [main] INFO eCommerce - Password provided
+2020-05-23 12:30:12,255 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:30:18,956 [main] INFO eCommerce - Login passed
+2020-05-23 12:37:16,785 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:37:17,062 [main] INFO eCommerce - User provided
+2020-05-23 12:37:17,212 [main] INFO eCommerce - Password provided
+2020-05-23 12:37:22,991 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:37:29,649 [main] INFO eCommerce - Login passed
+2020-05-23 12:37:37,026 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:37:37,112 [main] INFO eCommerce - User provided
+2020-05-23 12:37:37,176 [main] INFO eCommerce - Password provided
+2020-05-23 12:37:41,416 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:37:48,073 [main] INFO eCommerce - Login passed
+2020-05-23 12:42:50,786 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:42:51,036 [main] INFO eCommerce - User provided
+2020-05-23 12:42:51,188 [main] INFO eCommerce - Password provided
+2020-05-23 12:42:55,964 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:43:02,691 [main] INFO eCommerce - Login passed
+2020-05-23 12:43:09,957 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:43:10,100 [main] INFO eCommerce - User provided
+2020-05-23 12:43:10,166 [main] INFO eCommerce - Password provided
+2020-05-23 12:43:13,859 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:43:20,505 [main] INFO eCommerce - Login passed
+2020-05-23 12:49:08,618 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:49:08,894 [main] INFO eCommerce - User provided
+2020-05-23 12:49:09,041 [main] INFO eCommerce - Password provided
+2020-05-23 12:49:14,523 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:49:21,196 [main] INFO eCommerce - Login passed
+2020-05-23 12:49:30,033 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:49:30,123 [main] INFO eCommerce - User provided
+2020-05-23 12:49:30,181 [main] INFO eCommerce - Password provided
+2020-05-23 12:49:35,799 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:49:42,611 [main] INFO eCommerce - Login passed
+2020-05-23 12:52:25,949 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:52:26,241 [main] INFO eCommerce - User provided
+2020-05-23 12:52:26,394 [main] INFO eCommerce - Password provided
+2020-05-23 12:52:32,136 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:52:39,759 [main] INFO eCommerce - Login passed
+2020-05-23 12:52:46,779 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:52:46,883 [main] INFO eCommerce - User provided
+2020-05-23 12:52:46,952 [main] INFO eCommerce - Password provided
+2020-05-23 12:52:51,316 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:52:57,994 [main] INFO eCommerce - Login passed
+2020-05-23 12:54:12,315 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:54:12,607 [main] INFO eCommerce - User provided
+2020-05-23 12:54:12,768 [main] INFO eCommerce - Password provided
+2020-05-23 12:54:15,447 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:54:22,086 [main] INFO eCommerce - Login passed
+2020-05-23 12:54:29,319 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:54:29,418 [main] INFO eCommerce - User provided
+2020-05-23 12:54:29,475 [main] INFO eCommerce - Password provided
+2020-05-23 12:54:33,055 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:54:39,688 [main] INFO eCommerce - Login passed
+2020-05-23 12:57:40,791 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:57:41,112 [main] INFO eCommerce - User provided
+2020-05-23 12:57:41,279 [main] INFO eCommerce - Password provided
+2020-05-23 12:57:45,054 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:57:51,711 [main] INFO eCommerce - Login passed
+2020-05-23 12:58:00,472 [main] INFO eCommerce - URL is opened...
+2020-05-23 12:58:00,572 [main] INFO eCommerce - User provided
+2020-05-23 12:58:00,633 [main] INFO eCommerce - Password provided
+2020-05-23 12:58:04,948 [main] INFO eCommerce - Login is clicked
+2020-05-23 12:58:11,596 [main] INFO eCommerce - Login passed
+2020-05-23 13:02:03,445 [main] INFO eCommerce - URL is opened...
+2020-05-23 13:02:03,711 [main] INFO eCommerce - User provided
+2020-05-23 13:02:03,860 [main] INFO eCommerce - Password provided
+2020-05-23 13:02:09,425 [main] INFO eCommerce - Login is clicked
+2020-05-23 13:02:16,068 [main] INFO eCommerce - Login passed
+2020-05-23 13:02:25,477 [main] INFO eCommerce - URL is opened...
+2020-05-23 13:02:25,564 [main] INFO eCommerce - User provided
+2020-05-23 13:02:25,619 [main] INFO eCommerce - Password provided
+2020-05-23 13:02:31,221 [main] INFO eCommerce - Login is clicked
+2020-05-23 13:02:37,864 [main] INFO eCommerce - Login passed
+2020-05-25 13:56:30,552 [main] INFO eCommerce - URL is opened...
+2020-05-25 13:56:30,839 [main] INFO eCommerce - User provided
+2020-05-25 13:56:31,008 [main] INFO eCommerce - Password provided
+2020-05-25 13:56:36,156 [main] INFO eCommerce - Login is clicked
+2020-05-25 13:56:43,108 [main] INFO eCommerce - Login passed
+2020-05-25 14:02:09,005 [main] INFO eCommerce - URL is opened...
+2020-05-25 14:02:09,336 [main] INFO eCommerce - User provided
+2020-05-25 14:02:09,510 [main] INFO eCommerce - Password provided
+2020-05-25 14:02:14,557 [main] INFO eCommerce - Login is clicked
+2020-05-25 14:02:23,057 [main] INFO eCommerce - Login passed
+2020-05-25 14:04:17,210 [main] INFO eCommerce - URL is opened...
+2020-05-25 14:04:17,510 [main] INFO eCommerce - User provided
+2020-05-25 14:04:17,671 [main] INFO eCommerce - Password provided
+2020-05-25 14:04:22,193 [main] INFO eCommerce - Login is clicked
+2020-05-25 14:04:31,363 [main] INFO eCommerce - Login passed
+2020-05-25 14:09:00,361 [main] INFO eCommerce - URL is opened...
+2020-05-25 14:09:00,737 [main] INFO eCommerce - User provided
+2020-05-25 14:09:00,911 [main] INFO eCommerce - Password provided
+2020-05-25 14:09:05,582 [main] INFO eCommerce - Login is clicked
+2020-05-25 14:09:12,540 [main] INFO eCommerce - Login passed
+2020-05-26 22:44:29,388 [main] INFO eCommerce - URL is opened...
+2020-05-26 22:44:29,951 [main] INFO eCommerce - User provided
+2020-05-26 22:44:30,215 [main] INFO eCommerce - Password provided
+2020-05-26 22:44:37,074 [main] INFO eCommerce - Login is clicked
+2020-05-26 22:44:45,096 [main] INFO eCommerce - Login passed
+2020-05-26 22:44:58,927 [main] INFO eCommerce - User provided
+2020-05-26 22:44:59,200 [main] INFO eCommerce - Password provided
+2020-05-26 22:45:05,314 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:45:10,839 [main] INFO eCommerce - User provided
+2020-05-26 22:45:11,112 [main] INFO eCommerce - Password provided
+2020-05-26 22:45:11,793 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:45:13,807 [main] INFO eCommerce - Login Failed
+2020-05-26 22:45:15,651 [main] INFO eCommerce - User provided
+2020-05-26 22:45:15,926 [main] INFO eCommerce - Password provided
+2020-05-26 22:45:16,622 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:45:18,645 [main] INFO eCommerce - Login Failed
+2020-05-26 22:45:20,328 [main] INFO eCommerce - User provided
+2020-05-26 22:45:20,579 [main] INFO eCommerce - Password provided
+2020-05-26 22:45:21,303 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:45:23,316 [main] INFO eCommerce - Login Failed
+2020-05-26 22:47:26,209 [main] INFO eCommerce - URL is opened...
+2020-05-26 22:47:26,774 [main] INFO eCommerce - User provided
+2020-05-26 22:47:27,015 [main] INFO eCommerce - Password provided
+2020-05-26 22:47:34,795 [main] INFO eCommerce - Login is clicked
+2020-05-26 22:47:41,680 [main] INFO eCommerce - Login passed
+2020-05-26 22:47:54,995 [main] INFO eCommerce - User provided
+2020-05-26 22:47:55,279 [main] INFO eCommerce - Password provided
+2020-05-26 22:48:01,168 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:48:06,861 [main] INFO eCommerce - User provided
+2020-05-26 22:48:07,116 [main] INFO eCommerce - Password provided
+2020-05-26 22:48:08,790 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:48:10,804 [main] INFO eCommerce - Login Failed
+2020-05-26 22:48:12,800 [main] INFO eCommerce - User provided
+2020-05-26 22:48:13,074 [main] INFO eCommerce - Password provided
+2020-05-26 22:48:13,714 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:48:15,732 [main] INFO eCommerce - Login Failed
+2020-05-26 22:48:19,386 [main] INFO eCommerce - User provided
+2020-05-26 22:48:19,627 [main] INFO eCommerce - Password provided
+2020-05-26 22:48:21,410 [main] INFO eCommerce - Login in Clicked
+2020-05-26 22:48:23,423 [main] INFO eCommerce - Login Failed
+2020-05-26 23:39:57,746 [main] INFO eCommerce - URL is opened...
+2020-05-26 23:39:58,340 [main] INFO eCommerce - User provided
+2020-05-26 23:39:58,612 [main] INFO eCommerce - Password provided
+2020-05-26 23:40:02,556 [main] INFO eCommerce - Login is clicked
+2020-05-26 23:40:12,494 [main] INFO eCommerce - Login passed
+2020-05-26 23:40:24,755 [main] INFO eCommerce - User provided
+2020-05-26 23:40:25,075 [main] INFO eCommerce - Password provided
+2020-05-26 23:40:29,864 [main] INFO eCommerce - Login in Clicked
+2020-05-26 23:40:35,587 [main] INFO eCommerce - User provided
+2020-05-26 23:40:35,831 [main] INFO eCommerce - Password provided
+2020-05-26 23:40:36,487 [main] INFO eCommerce - Login in Clicked
+2020-05-26 23:40:38,505 [main] INFO eCommerce - Login Failed
+2020-05-26 23:40:40,472 [main] INFO eCommerce - User provided
+2020-05-26 23:40:40,724 [main] INFO eCommerce - Password provided
+2020-05-26 23:40:41,537 [main] INFO eCommerce - Login in Clicked
+2020-05-26 23:40:43,555 [main] INFO eCommerce - Login Failed
+2020-05-26 23:40:45,136 [main] INFO eCommerce - User provided
+2020-05-26 23:40:45,390 [main] INFO eCommerce - Password provided
+2020-05-26 23:40:46,045 [main] INFO eCommerce - Login in Clicked
+2020-05-26 23:40:48,063 [main] INFO eCommerce - Login Failed
+2020-05-26 23:40:59,158 [main] INFO eCommerce - User name is provided
+2020-05-26 23:40:59,424 [main] INFO eCommerce - password is provided
+2020-05-26 23:41:03,600 [main] INFO eCommerce - providing customer details....
+2020-05-26 23:41:16,549 [main] INFO eCommerce - validation started....
+2020-05-26 23:41:17,144 [main] INFO eCommerce - test case passed....
+2020-05-29 22:31:45,785 [main] INFO eCommerce - URL is opened...
+2020-05-29 22:31:46,527 [main] INFO eCommerce - User provided
+2020-05-29 22:31:46,785 [main] INFO eCommerce - Password provided
+2020-05-29 22:31:53,528 [main] INFO eCommerce - Login is clicked
+2020-05-29 22:32:03,236 [main] INFO eCommerce - Login passed
+2020-05-29 22:32:15,487 [main] INFO eCommerce - User name is provided
+2020-05-29 22:32:15,817 [main] INFO eCommerce - password is provided
+2020-05-29 22:32:21,389 [main] INFO eCommerce - providing customer details....
+2020-05-29 22:32:31,829 [main] INFO eCommerce - validation started....
+2020-05-29 22:32:32,475 [main] INFO eCommerce - test case passed....
+2020-05-29 23:09:51,915 [main] INFO eCommerce - URL is opened...
+2020-05-29 23:09:52,419 [main] INFO eCommerce - User provided
+2020-05-29 23:09:52,671 [main] INFO eCommerce - Password provided
+2020-05-29 23:09:59,768 [main] INFO eCommerce - Login is clicked
+2020-05-29 23:10:09,152 [main] INFO eCommerce - Login passed
+2020-05-29 23:10:21,811 [main] INFO eCommerce - User name is provided
+2020-05-29 23:10:22,051 [main] INFO eCommerce - password is provided
+2020-05-29 23:10:28,269 [main] INFO eCommerce - providing customer details....
+2020-05-29 23:10:43,246 [main] INFO eCommerce - validation started....
+2020-05-29 23:10:43,905 [main] INFO eCommerce - test case passed....
+2020-05-29 23:26:19,045 [main] INFO eCommerce - URL is opened...
+2020-05-29 23:26:19,468 [main] INFO eCommerce - User provided
+2020-05-29 23:26:19,696 [main] INFO eCommerce - Password provided
+2020-05-29 23:26:26,016 [main] INFO eCommerce - Login is clicked
+2020-05-29 23:26:35,479 [main] INFO eCommerce - Login passed
+2020-05-29 23:26:47,374 [main] INFO eCommerce - User name is provided
+2020-05-29 23:26:47,617 [main] INFO eCommerce - password is provided
+2020-05-29 23:26:54,646 [main] INFO eCommerce - providing customer details....
+2020-05-29 23:27:07,936 [main] INFO eCommerce - validation started....
+2020-05-29 23:27:08,439 [main] INFO eCommerce - test case passed....
+2020-05-29 23:37:04,963 [main] INFO eCommerce - URL is opened...
+2020-05-29 23:37:05,452 [main] INFO eCommerce - User provided
+2020-05-29 23:37:05,696 [main] INFO eCommerce - Password provided
+2020-05-29 23:37:11,688 [main] INFO eCommerce - Login is clicked
+2020-05-29 23:37:18,985 [main] INFO eCommerce - Login passed
+2020-05-29 23:37:31,501 [main] INFO eCommerce - User name is provided
+2020-05-29 23:37:31,773 [main] INFO eCommerce - password is provided
+2020-05-29 23:37:37,811 [main] INFO eCommerce - providing customer details....
+2020-05-29 23:37:51,530 [main] INFO eCommerce - validation started....
+2020-05-29 23:37:52,252 [main] INFO eCommerce - test case passed....
+2020-05-30 14:08:23,208 [main] INFO eCommerce - URL is opened...
+2020-05-30 14:08:50,818 [main] INFO eCommerce - User provided
+2020-05-30 14:09:03,997 [main] INFO eCommerce - Password provided
+2020-05-30 14:09:28,653 [main] INFO eCommerce - Login is clicked
+2020-05-30 14:09:46,516 [main] INFO eCommerce - Login passed
+2020-05-30 14:10:04,837 [main] INFO eCommerce - User name is provided
+2020-05-30 14:10:04,992 [main] INFO eCommerce - password is provided
+2020-05-30 14:10:07,606 [main] INFO eCommerce - providing customer details....
+2020-05-30 14:10:14,043 [main] INFO eCommerce - validation started....
+2020-05-30 14:10:14,283 [main] INFO eCommerce - test case passed....
+2020-05-30 14:14:16,370 [main] INFO eCommerce - URL is opened...
+2020-05-30 14:14:40,618 [main] INFO eCommerce - User provided
+2020-05-30 14:14:54,010 [main] INFO eCommerce - Password provided
+2020-05-30 14:15:17,035 [main] INFO eCommerce - Login is clicked
+2020-05-30 14:15:33,143 [main] INFO eCommerce - Login passed
+2020-05-30 14:16:13,817 [main] INFO eCommerce - User name is provided
+2020-05-30 14:16:26,030 [main] INFO eCommerce - password is provided
+2020-05-30 14:16:49,370 [main] INFO eCommerce - providing customer details....
+2020-05-30 14:58:20,540 [main] INFO eCommerce - URL is opened...
+2020-05-30 14:58:46,030 [main] INFO eCommerce - User provided
+2020-05-30 14:59:00,174 [main] INFO eCommerce - Password provided
+2020-05-30 14:59:21,715 [main] INFO eCommerce - Login is clicked
+2020-05-30 14:59:39,115 [main] INFO eCommerce - Login passed
+2020-05-30 14:59:52,585 [main] INFO eCommerce - User name is provided
+2020-05-30 14:59:52,731 [main] INFO eCommerce - password is provided
+2020-05-30 14:59:55,455 [main] INFO eCommerce - providing customer details....
+2020-05-30 15:00:02,306 [main] INFO eCommerce - validation started....
+2020-05-30 15:00:02,630 [main] INFO eCommerce - test case passed....
+2020-05-30 15:02:20,945 [main] INFO eCommerce - URL is opened...
+2020-05-30 15:02:47,690 [main] INFO eCommerce - User provided
+2020-05-30 15:02:59,434 [main] INFO eCommerce - Password provided
+2020-05-30 15:03:23,592 [main] INFO eCommerce - Login is clicked
+2020-05-30 15:03:39,475 [main] INFO eCommerce - Login passed
+2020-05-30 15:04:19,837 [main] INFO eCommerce - User name is provided
+2020-05-30 15:04:33,472 [main] INFO eCommerce - password is provided
+2020-05-30 15:04:57,798 [main] INFO eCommerce - providing customer details....
+2020-06-02 19:04:03,719 [main] INFO eCommerce - URL is opened...
+2020-06-02 19:04:04,063 [main] INFO eCommerce - User provided
+2020-06-02 19:04:04,214 [main] INFO eCommerce - Password provided
+2020-06-02 19:04:09,652 [main] INFO eCommerce - Login is clicked
